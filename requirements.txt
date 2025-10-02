@@ -1,0 +1,7 @@
+fastapi==0.118.0
+uvicorn[standard]==0.37.0
+ultralytics==8.3.204
+opencv-contrib-python==4.10.0.84
+numpy
+paddlepaddle==3.0.0
+paddleocr==3.2.0
