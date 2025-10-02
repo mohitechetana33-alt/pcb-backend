@@ -1,0 +1,13 @@
+# venvs
+venv/
+venv311/
+# Python cruft
+__pycache__/
+*.pyc
+# Local files
+*.log
+# Large weights (your app auto-downloads them)
+yolov8n.pt
+# OS junk
+.DS_Store
+Thumbs.db
